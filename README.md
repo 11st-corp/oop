@@ -11,10 +11,10 @@
 | Item |   Title   | Assignee |
 | :--: | :----------------: |:-----: |
 |  요약  | [chapter1_혁주](./Chapter1/summary/혁주.md) | 권혁주 |
-|  요약  | [chapter1_다미](#) | 김다미 |
-|  요약  | [chapter1_정호](#) | 김정호 |
-|  요약  | [chapter1_찬우](#) | 박찬우 |
-|  요약  | [chapter1_호찬](#) | 이호찬 |
+|  요약  | [chapter1_다미](./Chapter1/summary/다미.md) | 김다미 |
+|  요약  | [chapter1_정호](./Chapter1/summary/정호.md) | 김정호 |
+|  요약  | [chapter1_찬우](./Chapter1/summary/찬우.md) | 박찬우 |
+|  요약  | [chapter1_호찬](./Chapter1/summary/호찬.md) | 이호찬 |
 |  회의록  | [9/26회의록](./Chapter1/meeting_note/9월26일.md) | 권혁주 |
 
 </div>
