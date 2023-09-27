@@ -4,7 +4,7 @@
 <h1> 🐰 OOP Study </h1>
 
 ### 객체지향의 사실과 오해(조영호) 스터디
-<img width="387" alt="image" src="https://github.com/11st-corp/oop/assets/76726411/d04621a1-df62-4944-af95-ae6826fe66be">
+<img width="387" alt="스크린샷 2023-09-26 오후 10 10 23" src="https://github.com/11st-corp/oop/assets/76726411/160a98cb-a0c1-4101-9b1d-c9740b4a4f48">
 
 ### Chapter 01 - 협력하는 객체들의 공동체
 
