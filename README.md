@@ -15,7 +15,13 @@
 |  요약  | [chapter1_정호](./Chapter1/summary/정호.md) | 김정호 |
 |  요약  | [chapter1_찬우](./Chapter1/summary/찬우.md) | 박찬우 |
 |  요약  | [chapter1_호찬](./Chapter1/summary/호찬.md) | 이호찬 |
-|  회의록  | [9/26회의록](./Chapter1/meeting_note/9월26일.md) | 권혁주 |
+|  회의록  | [9/26 회의록](./Chapter1/meeting_note/9월26일.md) | 권혁주 |
+|  요약  | [chapter2_혁주](./Chapter2/summary/혁주.md) | 권혁주 |
+|  요약  | [chapter2_다미](./Chapter2/summary/다미.md) | 김다미 |
+|  요약  | [chapter2_정호](./Chapter2/summary/정호.md) | 김정호 |
+|  요약  | [chapter2_찬우](./Chapter2/summary/찬우.md) | 박찬우 |
+|  요약  | [chapter2_호찬](./Chapter2/summary/호찬.md) | 이호찬 |
+|  회의록  | [10/5 회의록](./Chapter2/meeting_note/10월5일.md) | 김다미 |
 
 </div>
 
