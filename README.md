@@ -16,6 +16,10 @@
 |  요약  | [chapter1_찬우](./Chapter1/summary/찬우.md) | 박찬우 |
 |  요약  | [chapter1_호찬](./Chapter1/summary/호찬.md) | 이호찬 |
 |  회의록  | [9/26 회의록](./Chapter1/meeting_note/9월26일.md) | 권혁주 |
+
+### Chapter 02 - 이상한 나라의 객체
+| Item |   Title   | Assignee |
+| :--: | :----------------: |:-----: |
 |  요약  | [chapter2_혁주](./Chapter2/summary/혁주.md) | 권혁주 |
 |  요약  | [chapter2_다미](./Chapter2/summary/다미.md) | 김다미 |
 |  요약  | [chapter2_정호](./Chapter2/summary/정호.md) | 김정호 |
@@ -30,8 +34,8 @@
 - [권혁주](https://github.com/huckjoo)
 - [김다미](https://github.com/damilog)
 - [김정호](https://github.com/Hoya-kim)
-- [이호찬](https://github.com/hochan222)
 - [박찬우](https://github.com/chanuuuuu)
+- [이호찬](https://github.com/hochan222)
 
 ### 📝 Study Rules
 
