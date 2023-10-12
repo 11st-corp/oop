@@ -27,6 +27,16 @@
 |  요약  | [chapter2_호찬](./Chapter2/summary/호찬.md) | 이호찬 |
 |  회의록  | [10/5 회의록](./Chapter2/meeting_note/10월5일.md) | 김다미 |
 
+### Chapter 03 - 타입과 추상화
+| Item |   Title   | Assignee |
+| :--: | :----------------: |:-----: |
+|  요약  | [chapter3_혁주](./Chapter3/summary/혁주.md) | 권혁주 |
+|  요약  | [chapter3_다미](./Chapter3/summary/다미.md) | 김다미 |
+|  요약  | [chapter3_정호](./Chapter3/summary/정호.md) | 김정호 |
+|  요약  | [chapter3_찬우](./Chapter3/summary/찬우.md) | 박찬우 |
+|  요약  | [chapter3_호찬](./Chapter3/summary/호찬.md) | 이호찬 |
+|  회의록  | [10/12 회의록](./Chapter3/meeting_note/10월12일.md) | 김정호 |
+
 </div>
 
 ### 🧑‍💻 Members
