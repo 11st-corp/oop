@@ -37,6 +37,16 @@
 |  요약  | [chapter3_호찬](./Chapter3/summary/호찬.md) | 이호찬 |
 |  회의록  | [10/12 회의록](./Chapter3/meeting_note/10월12일.md) | 김정호 |
 
+### Chapter 04 - 역할, 책임, 협력
+| Item |   Title   | Assignee |
+| :--: | :----------------: |:-----: |
+|  요약  | [chapter4_혁주](./Chapter4/summary/혁주.md) | 권혁주 |
+|  요약  | [chapter4_다미](./Chapter4/summary/다미.md) | 김다미 |
+|  요약  | [chapter4_정호](./Chapter4/summary/정호.md) | 김정호 |
+|  요약  | [chapter4_찬우](./Chapter4/summary/찬우.md) | 박찬우 |
+|  요약  | [chapter4_호찬](./Chapter4/summary/호찬.md) | 이호찬 |
+|  회의록  | [10/12 회의록](./Chapter4/meeting_note/10월19일.md) | 이호찬 |
+
 </div>
 
 ### 🧑‍💻 Members
