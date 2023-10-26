@@ -47,6 +47,16 @@
 |  요약  | [chapter4_호찬](./Chapter4/summary/호찬.md) | 이호찬 |
 |  회의록  | [10/12 회의록](./Chapter4/meeting_note/10월19일.md) | 이호찬 |
 
+### Chapter 05 - 책임과 메시지
+| Item |   Title   | Assignee |
+| :--: | :----------------: |:-----: |
+|  요약  | [chapter5_혁주](./Chapter5/summary/혁주.md) | 권혁주 |
+|  요약  | [chapter5_다미](./Chapter5/summary/다미.md) | 김다미 |
+|  요약  | [chapter5_정호](./Chapter5/summary/정호.md) | 김정호 |
+|  요약  | [chapter5_찬우](./Chapter5/summary/찬우.md) | 박찬우 |
+|  요약  | [chapter5_호찬](./Chapter5/summary/호찬.md) | 이호찬 |
+|  회의록  | [10/26 회의록](./Chapter5/meeting_note/10월26일.md) | 김다미 |
+
 </div>
 
 ### 🧑‍💻 Members
