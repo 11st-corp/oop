@@ -57,6 +57,16 @@
 |  요약  | [chapter5_호찬](./Chapter5/summary/호찬.md) | 이호찬 |
 |  회의록  | [10/26 회의록](./Chapter5/meeting_note/10월26일.md) | 김다미 |
 
+### Chapter 06 - 객체 지도
+| Item |   Title   | Assignee |
+| :--: | :----------------: |:-----: |
+|  요약  | [chapter6_혁주](./Chapter6/summary/혁주.md) | 권혁주 |
+|  요약  | [chapter6_다미](./Chapter6/summary/다미.md) | 김다미 |
+|  요약  | [chapter6_정호](./Chapter6/summary/정호.md) | 김정호 |
+|  요약  | [chapter6_찬우](./Chapter6/summary/찬우.md) | 박찬우 |
+|  요약  | [chapter6_호찬](./Chapter6/summary/호찬.md) | 이호찬 |
+|  회의록  | [11/2 회의록](./Chapter6/meeting_note/11월2일.md) | 권혁주 |
+
 </div>
 
 ### 🧑‍💻 Members
