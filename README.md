@@ -67,6 +67,15 @@
 |  요약  | [chapter6_호찬](./Chapter6/summary/호찬.md) | 이호찬 |
 |  회의록  | [11/2 회의록](./Chapter6/meeting_note/11월2일.md) | 권혁주 |
 
+### 부록 A - 추상화 기법
+| Item |   Title   | Assignee |
+| :--: | :----------------: |:-----: |
+|  요약  | [Appendix-A_혁주](./Appendix-A/혁주.md) | 권혁주 |
+|  요약  | [Appendix-A_다미](./Appendix-A/다미.md) | 김다미 |
+|  요약  | [Appendix-A_정호](./Appendix-A/정호.md) | 김정호 |
+|  요약  | [Appendix-A_찬우](./Appendix-A/찬우.md) | 박찬우 |
+|  요약  | [Appendix-A_호찬](./Appendix-A/호찬.md) | 이호찬 |
+
 </div>
 
 ### 🧑‍💻 Members
